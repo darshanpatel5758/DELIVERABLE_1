@@ -1,0 +1,13 @@
+D:\Deliverable1\Deliverable1\Deliverable1\bin\Debug\netcoreapp3.1\Deliverable1.exe
+D:\Deliverable1\Deliverable1\Deliverable1\bin\Debug\netcoreapp3.1\Deliverable1.deps.json
+D:\Deliverable1\Deliverable1\Deliverable1\bin\Debug\netcoreapp3.1\Deliverable1.runtimeconfig.json
+D:\Deliverable1\Deliverable1\Deliverable1\bin\Debug\netcoreapp3.1\Deliverable1.runtimeconfig.dev.json
+D:\Deliverable1\Deliverable1\Deliverable1\bin\Debug\netcoreapp3.1\Deliverable1.dll
+D:\Deliverable1\Deliverable1\Deliverable1\bin\Debug\netcoreapp3.1\Deliverable1.pdb
+D:\Deliverable1\Deliverable1\Deliverable1\obj\Debug\netcoreapp3.1\Deliverable1.csprojAssemblyReference.cache
+D:\Deliverable1\Deliverable1\Deliverable1\obj\Debug\netcoreapp3.1\Deliverable1.AssemblyInfoInputs.cache
+D:\Deliverable1\Deliverable1\Deliverable1\obj\Debug\netcoreapp3.1\Deliverable1.AssemblyInfo.cs
+D:\Deliverable1\Deliverable1\Deliverable1\obj\Debug\netcoreapp3.1\Deliverable1.csproj.CoreCompileInputs.cache
+D:\Deliverable1\Deliverable1\Deliverable1\obj\Debug\netcoreapp3.1\Deliverable1.dll
+D:\Deliverable1\Deliverable1\Deliverable1\obj\Debug\netcoreapp3.1\Deliverable1.pdb
+D:\Deliverable1\Deliverable1\Deliverable1\obj\Debug\netcoreapp3.1\Deliverable1.genruntimeconfig.cache
